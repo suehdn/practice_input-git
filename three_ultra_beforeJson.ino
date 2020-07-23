@@ -4,7 +4,7 @@
 /*
  * 초음파 센서 3개를 사용해 측정하기.
  */
-int trig1 = 2;//
+int trig1 = 2;
 int echo1 =  3;
 
 int trig2= 4;
