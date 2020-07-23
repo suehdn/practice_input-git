@@ -1,7 +1,10 @@
+
+// JSON 객체 선언 (동적 메모리 할당, 정적 메모리 할당하고자 할 경우 Dynamic => Static 변경)
+
 /*
  * 초음파 센서 3개를 사용해 측정하기.
  */
-int trig1 = 2;
+int trig1 = 2;//
 int echo1 =  3;
 
 int trig2= 4;
